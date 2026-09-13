@@ -6,7 +6,7 @@ Global supply chains are exposed to geopolitical events, transportation delays, 
 
 The objective is not only to analyze historical data, but also to convert the analysis into 𝐛𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐢𝐧𝐬𝐢𝐠𝐡𝐭𝐬 𝐭𝐡𝐚𝐭 𝐜𝐚𝐧 𝐬𝐮𝐩𝐩𝐨𝐫𝐭 𝐬𝐮𝐩𝐩𝐥𝐲 𝐜𝐡𝐚𝐢𝐧 𝐫𝐢𝐬𝐤 𝐦𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐚𝐧𝐝 𝐬𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐜 𝐝𝐞𝐜𝐢𝐬𝐢𝐨𝐧-𝐦𝐚𝐤𝐢𝐧𝐠.
 
---
+<br>
 
 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐏𝐫𝐨𝐛𝐥𝐞𝐦
 Global supply chain managers need to answer several important questions:
@@ -27,7 +27,7 @@ Global supply chain managers need to answer several important questions:
 
 ● This project addresses these questions using SQL-based data analysis.
 
---
+<br>
 
 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞𝐬
 The analysis focuses on five major objectives:
@@ -42,7 +42,7 @@ The analysis focuses on five major objectives:
 
 ● 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐃𝐞𝐜𝐢𝐬𝐢𝐨𝐧 𝐒𝐮𝐩𝐩𝐨𝐫𝐭: Convert analytical results into practical supply chain recommendations.
 
---
+<br>
 
 𝐃𝐚𝐭𝐚𝐬𝐞𝐭 𝐚𝐧𝐝 𝐃𝐚𝐭𝐚 𝐌𝐨𝐝𝐞𝐥
 
@@ -64,7 +64,7 @@ Contains weekly operational information including trade volume, shipping delays,
 ### `weekly_timeline`
 Provides the weekly date dimension used for time-based analysis.
 
---
+<br>
 
 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐚𝐥 𝐀𝐩𝐩𝐫𝐨𝐚𝐜𝐡
 
@@ -91,7 +91,7 @@ The analysis includes:
 ● Resilience scoring
 ● Health scoring
 
---
+<br>
 
 𝐊𝐞𝐲 𝐊𝐏𝐈𝐬
 
@@ -141,7 +141,7 @@ Evaluates the relative strength of trade routes.
 
 Combines multiple operational factors to classify routes as Healthy, Stable, At Risk or Critical.
 
---
+<br>
 
 𝐊𝐞𝐲 𝐅𝐢𝐧𝐝𝐢𝐧𝐠𝐬
 
@@ -157,7 +157,7 @@ Several routes emerged as high-risk based on the project's composite risk method
 
 The country resilience analysis also showed significant differences between countries. India recorded the highest resilience score in the project's custom methodology, while several developed economies showed weaker scores because of the combination of logistics, port and trade-dependency factors used in the model.
 
---
+<br>
 
 𝐇𝐢𝐠𝐡-𝐑𝐢𝐬𝐤 𝐑𝐨𝐮𝐭𝐞 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
 
@@ -177,7 +177,7 @@ The highest-risk routes include:
 
 The purpose of this analysis is to help supply chain managers prioritize routes requiring closer monitoring, contingency planning or alternative sourcing.
 
---
+<br>
 
 𝐑𝐨𝐮𝐭𝐞 𝐑𝐞𝐬𝐢𝐥𝐢𝐞𝐧𝐜𝐞 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
 
@@ -193,7 +193,7 @@ Instead of only reporting which routes are risky, the analysis attempts to answe
 
 That makes the project more decision-oriented.
 
---
+<br>
 
 𝐒𝐮𝐩𝐩𝐥𝐲 𝐂𝐡𝐚𝐢𝐧 𝐇𝐞𝐚𝐥𝐭𝐡 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
 
@@ -215,7 +215,7 @@ Routes are classified into:
 
 This allows management to quickly identify routes that require immediate attention instead of reviewing dozens of individual KPIs.
 
---
+<br>
 
 𝐆𝐞𝐨𝐩𝐨𝐥𝐢𝐭𝐢𝐜𝐚𝐥 𝐄𝐱𝐩𝐨𝐬𝐮𝐫𝐞
 
@@ -225,7 +225,7 @@ The project also evaluates country-level geopolitical exposure by considering:
 
 The analysis identified France, the US, Australia, Brazil and Canada among the countries with the highest calculated geopolitical exposure.
 
---
+<br>
 
 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐑𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬
 
