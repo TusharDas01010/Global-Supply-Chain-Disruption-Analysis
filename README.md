@@ -17,7 +17,8 @@ A complete video walkthrough of the project, covering the business problem, data
 
 ## 📑 Project Presentation
 
-[📄 View Project Presentation (PDF)](Global_Supply_Chain_Disruption_Analysis_Presentation.pdf)
+[📄 View Project Presentation (PDF)](Global-Supply-Chain-Disruption-Analysis/Global Supply Chain Disruption Analysis presentation.pdf)
+
 
 ---
 
