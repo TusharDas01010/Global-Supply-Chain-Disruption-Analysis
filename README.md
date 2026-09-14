@@ -8,6 +8,15 @@ The objective is not only to analyze historical data, but also to convert the an
 
 ---
 
+
+## 🎥 Video Presentation
+
+A complete video walkthrough of the project, covering the business problem, data analysis, key insights, SQL analysis, and Power BI dashboard.
+
+[▶️ Watch the Full Project Presentation](https://youtu.be/4ZCIjNGC0Yw)
+
+---
+
 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐏𝐫𝐨𝐛𝐥𝐞𝐦
 Global supply chain managers need to answer several important questions:
 
