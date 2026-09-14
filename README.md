@@ -15,6 +15,10 @@ A complete video walkthrough of the project, covering the business problem, data
 
 [▶️ Watch the Full Project Presentation](https://youtu.be/4ZCIjNGC0Yw)
 
+## 📑 Project Presentation
+
+[📄 View Project Presentation (PDF)](Global_Supply_Chain_Disruption_Analysis_Presentation.pdf)
+
 ---
 
 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐏𝐫𝐨𝐛𝐥𝐞𝐦
