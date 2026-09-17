@@ -13,11 +13,11 @@ The objective is not only to analyze historical data, but also to convert the an
 
 A complete video walkthrough of the project, covering the business problem, data analysis, key insights, SQL analysis, and Power BI dashboard.
 
+## 📑 Project Presentation
+
 [▶️ Watch the Full Project Presentation](https://youtu.be/4ZCIjNGC0Yw)
 
-## 📑 Project Presentation
-
-## 📑 Project Presentation
+## 📑 Project Presentation PDF
 
 [📄 View Project Presentation (PDF)](Global%20Supply%20Chain%20Disruption%20Analysis%20presentation.pdf)
 
